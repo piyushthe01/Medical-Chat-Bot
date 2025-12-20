@@ -1,6 +1,6 @@
-# 🩺 Dr. Arpita — Medical Information Chatbot
+# 🩺 Dr. Doom — Medical Information Chatbot
 
-**Dr. Arpita** is an AI-powered medical information assistant built with:
+**Dr. Doom** is an AI-powered medical information assistant built with:
 - 🧠 Retrieval-Augmented Generation (RAG)
 - 📄 PDF / medical document ingestion
 - 🔎 Semantic search using vector embeddings
